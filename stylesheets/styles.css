@@ -244,9 +244,10 @@ code, pre {
 }
 
 pre {
+  
   padding: 20px;
   /*background: #3A3C42;*/
-  color: #f8f8f2;
+  color: #333;
   margin: 0 -20px 20px;
 }
 pre code {
