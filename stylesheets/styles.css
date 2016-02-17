@@ -78,6 +78,7 @@ header h1 {
 }
 header h2{
  text-indent:10px; 
+ padding:5px;
 }
 }
 header.without-description h1 {
